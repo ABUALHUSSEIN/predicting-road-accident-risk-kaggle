@@ -14,7 +14,7 @@ This project is structured into two main parts, documented in separate Kaggle no
 1.  **Exploratory Data Analysis (EDA):** A comprehensive investigation of the dataset to uncover patterns, validate data quality, and identify key predictive features. My EDA notebook for this project was awarded a **Bronze Medal** on Kaggle.
     *   **[View the Award-Winning EDA Notebook on Kaggle](https://www.kaggle.com/code/anwarabualhussien/full-eda-understanding-the-data)**
 2.  **Predictive Modeling:** The implementation of a robust machine learning pipeline to preprocess the data and train a final, optimized LightGBM model for submission.
-    *   **[View the Modeling Notebook on Kaggle] (https://www.kaggle.com/code/anwarabualhussien/lightgb-rmse-0-05626-road-risk-prediction)**
+    *   **[View the Modeling Notebook on Kaggle](https://www.kaggle.com/code/anwarabualhussien/lightgb-rmse-0-05626-road-risk-prediction)**
 
 ---
 
