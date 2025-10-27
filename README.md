@@ -1,5 +1,4 @@
 # predicting-road-accident-risk-kaggle
-# Predicting Road Accident Risk - A Winning Kaggle Solution
 
 ![Road Safety Banner](https://raw.githubusercontent.com/ABUALHUSSEIN/predicting-road-accident-risk-kaggle/refs/heads/main/road.png)
 
